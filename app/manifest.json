@@ -1,0 +1,8 @@
+{
+  "name": "CRM RCF",
+  "short_name": "CRM RCF",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#2f5d3f",
+  "theme_color": "#2f5d3f"
+}
